@@ -1,0 +1,15 @@
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\bin\Debug\SolveWareRemastered.exe.config
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\bin\Debug\SolveWareRemastered.exe
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\bin\Debug\SolveWareRemastered.pdb
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\obj\Debug\SolveWareRemastered.csproj.AssemblyReference.cache
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\obj\Debug\SolveWareRemastered.Main.resources
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\obj\Debug\SolveWareRemastered.Properties.Resources.resources
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\obj\Debug\SolveWareRemastered.csproj.GenerateResource.cache
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\obj\Debug\SolveWareRemastered.csproj.CoreCompileInputs.cache
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\obj\Debug\SolveWareRemastered.exe
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\obj\Debug\SolveWareRemastered.pdb
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\obj\Debug\SolveWareRemastered.GeneralEquation_SOC.resources
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\obj\Debug\SolveWareRemastered.CustomizeApp_Settings.resources
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\obj\Debug\SolveWareRemastered.CustomizePlot_Settings.resources
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\obj\Debug\SolveWareRemastered.PlaneSurfaceIntersectionForm.resources
+C:\Users\limon\source\repos\SolveWareRemastered\SolveWareRemastered\obj\Debug\SolveWareRemastered.AboutForm.resources
